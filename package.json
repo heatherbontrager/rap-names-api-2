@@ -11,5 +11,6 @@
   },
   "author": "",
 
-  "license": "ISC"
+  "license": "ISC",
+  "NODE_VERSION": "14.17.5"
 }
